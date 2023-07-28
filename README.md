@@ -2,7 +2,7 @@
 
 Here is the link to the full excel project with the interactive dashboard
 
-https://uconn-my.sharepoint.com/:x:/g/personal/jayden_nash_uconn_edu/EeBf5Is1tSRKqaKY0WWXi_YBhsLFlrnv4MfD6YLyo9BWlQ?e=UyrNCK&nav=MTVfezg4RDNENUFCLTVGMEEtNDZCNS05QjNCLTUzMDNDQjA4OEZFN30
+https://uconn-my.sharepoint.com/:x:/g/personal/jayden_nash_uconn_edu/EeBf5Is1tSRKqaKY0WWXi_YBhsLFlrnv4MfD6YLyo9BWlQ?e=gx1Qf2&nav=MTVfezg4RDNENUFCLTVGMEEtNDZCNS05QjNCLTUzMDNDQjA4OEZFN30
 
 
 In this project i take in a excel sheet providing coffee sales across many different variables including customer, coffee name, coffee roast and weight and create a dashboard for the total sales, sales by country and top 5 customers at any given time
